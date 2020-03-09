@@ -1,4 +1,4 @@
-cmake-boost-demo
+DUNE DAQ Template Package
 ================
 
 This repository provides a template package for DUNE DAQ using the CMake
